@@ -1,6 +1,6 @@
 # Minta-Limon.github.io
 
-## Ściąga ;)
+## ⚡ Ściąga ;)
 
 ### 1. Jak usunąć repozytorium z katalogu:
 ```sh

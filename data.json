@@ -1,7 +1,8 @@
 {
 	"userId": 1,
 	"id": 1,
-	"title": "delectus aut autem",
-  "content": "hallom everybody :)",
+	"title": "Tytył to zawsze nagłówek pierwszego stopnia",
+	"description": "Podsumowanie artykułu, czyli w 'skrócie'",
+	"content": "Treść artykułu wraz z wprowadzeniem. Czy można tu wstawić znacznik html? <p>akapit</p>",
 	"completed": false
 }
